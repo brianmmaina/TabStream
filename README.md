@@ -136,9 +136,7 @@ Having trouble?
 MIT License - feel free to use and modify!
 
 ## Contact
-
-**Brian Maine**  
-bmmaina@bu.edu
+Brian Maina - bmmaina@bu.edu
 
 ---
 
