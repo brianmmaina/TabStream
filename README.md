@@ -1,9 +1,5 @@
 # Tab Stream
 
-<p align="center">
-  <img src="truelogo.png" width="250" alt="Tab Stream Logo">
-</p>
-
 A Chrome extension that helps guitarists find tabs and chord charts while watching YouTube videos. It uses Google Gemini AI to clean up video titles and extract artist/song information, plus provides an AI chat assistant to answer questions about guitar tabs, chords, and music theory.
 
 I built this to help me learn guitar in the future - I got tired of manually searching for tabs every time I found a song I wanted to learn on YouTube. So I made this extension to do the work for me when I start learning!
