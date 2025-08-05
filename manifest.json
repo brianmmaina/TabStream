@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Stream",
+  "version": "1.0",
+  "description": "Extract song information from YouTube videos and provide tab links",
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://generativelanguage.googleapis.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["gemini.js", "content.js"],
+      "css": ["sidebar.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["sidebar.html", "sidebar.js"],
+      "matches": ["https://www.youtube.com/*"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+} 

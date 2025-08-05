@@ -1,0 +1,27 @@
+{
+  "name": "tab-stream-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that extracts song information from YouTube videos and provides quick access to guitar tabs",
+  "main": "content.js",
+  "scripts": {
+    "build": "echo 'No build process needed for Chrome extension'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "chrome-extension",
+    "youtube",
+    "music",
+    "guitar-tabs",
+    "gemini-ai"
+  ],
+  "author": "Tab Stream Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tab-stream-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/tab-stream-extension/issues"
+  },
+  "homepage": "https://github.com/yourusername/tab-stream-extension#readme"
+} 

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab Stream Sidebar</title>
+</head>
+<body>
+    <div id="tab-stream-sidebar">
+        <div class="sidebar-header">
+            <h3>Tab Stream</h3>
+            <button class="close-btn" onclick="this.closest('#tab-stream-sidebar').remove()">×</button>
+        </div>
+        <div class="sidebar-content">
+            <div class="song-info">
+                <div class="loading">Analyzing video...</div>
+            </div>
+            <div class="tab-links" style="display: none;">
+                <h4>Find Tabs:</h4>
+                <div class="link-buttons">
+                    <button class="tab-link" data-site="ultimate-guitar">Ultimate Guitar</button>
+                    <button class="tab-link" data-site="songsterr">Songsterr</button>
+                    <button class="tab-link" data-site="google">Google Search</button>
+                </div>
+            </div>
+            <div class="chat-section">
+                <h4>Ask about this song:</h4>
+                <input type="text" id="chat-input" placeholder="e.g., Find fingerstyle tab">
+                <button id="chat-send">Ask</button>
+                <div id="chat-response"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
