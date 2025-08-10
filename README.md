@@ -1,3 +1,16 @@
+[![License](https://img.shields.io/github/license/brianmmaina/tabstream)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream/commits/main)
+[![Stars](https://img.shields.io/github/stars/brianmmaina/tabstream?style=social)](https://github.com/brianmmaina/tabstream/stargazers)
+[![Issues](https://img.shields.io/github/issues/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream/pulls)
+[![Top Language](https://img.shields.io/github/languages/top/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream)
+[![Repo Size](https://img.shields.io/github/repo-size/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream)
+[![Code Size](https://img.shields.io/github/languages/code-size/brianmmaina/tabstream)](https://github.com/brianmmaina/tabstream)
+
+[![Chrome Extension](https://img.shields.io/badge/Platform-Chrome%20Extension-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+[![Gemini AI](https://img.shields.io/badge/AI-Google%20Gemini-4285F4?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 # Tab Stream
 
 A Chrome extension that helps guitarists find tabs and chord charts while watching YouTube videos. It uses Google Gemini AI to clean up video titles and extract artist/song information, plus provides an AI chat assistant to answer questions about guitar tabs, chords, and music theory.
